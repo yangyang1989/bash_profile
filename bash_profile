@@ -5,6 +5,5 @@ export GREP_OPTIONS='--color=auto'
 # alias ls='ls --color=auto'
 alias ll='ls -al'
 alias la='ls -a'
-alias linux='ssh aaron@10.211.55.5'
 [[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && . "/usr/local/etc/profile.d/bash_completion.sh"
 
